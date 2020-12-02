@@ -2,7 +2,7 @@
 
 
 # 1. Contents of the Project
-In this project, I build a small Option Pricing Library with C++, including several parts as follows:
+In this project, I built a small Option Pricing Library with C++, including several parts as follows:
 (1) Pricing of European, American, Asian, Binary, Lookback, Barrier Options.
 (2) Option payoff types include: Call, Put, General payoff.
 (3) Pricing methods include: BS formula, Binomial Trees, Monte Carlo Simulation, numerical
